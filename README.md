@@ -24,6 +24,16 @@ To utilize this simulator in Dart, ensure you have the [Dart SDK](https://dart.d
 ### Ruby `feat/ruby`
 
 For Ruby, ensure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) installed on your system. Follow the guidelines to install a suitable linter for Ruby.
+The linter is robocop, you can follow [these steps](https://rubocop.org/)
+Then create a ''.robocop.yml'' file and add those lines :
+```
+Style/EndOfLine:
+  EnforcedStyle: lf
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Metrics/MethodLength:
+  Max: 40
+```
 
 ### TypeScript `feat/typescript`
 
