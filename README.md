@@ -35,9 +35,13 @@ Metrics/MethodLength:
   Max: 40
 ```
 
-### TypeScript `feat/typescript`
+### TypeScript `feat/ts`
 
 If you're working with TypeScript, set up the ESLint linter by referring to the documentation available [here](https://eslint.org/docs/user-guide/getting-started).
+
+### TypeScript `feature/ts`
+
+If you're working with Javascript, set up the ESLint linter by referring to the documentation available [here](https://eslint.org/docs/user-guide/getting-started).
 
 ## Roadmap
 
