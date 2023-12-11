@@ -17,15 +17,15 @@ Welcome to the Rice Cooker Simulator! This console-based program simulates a ric
 
 ## Installation and Usage
 
-### Dart
+### Dart `feat/dart`
 
 To utilize this simulator in Dart, ensure you have the [Dart SDK](https://dart.dev/get-dart) installed. You can incorporate the Dart linter `dart analyze` by following the instructions provided [here](https://dart.dev/tools/dart-tool).
 
-### Ruby
+### Ruby `feat/ruby`
 
 For Ruby, ensure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) installed on your system. Follow the guidelines to install a suitable linter for Ruby.
 
-### TypeScript
+### TypeScript `feat/typescript`
 
 If you're working with TypeScript, set up the ESLint linter by referring to the documentation available [here](https://eslint.org/docs/user-guide/getting-started).
 
